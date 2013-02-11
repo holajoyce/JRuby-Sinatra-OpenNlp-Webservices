@@ -19,15 +19,11 @@ If you prefer to have a servlet for OpenNLP you can take a look at my [example](
 * [resque gem](https://github.com/defunkt/resque) for enqueueing jobs
 * [jruby rack worker](https://github.com/kares/jruby-rack-worker) is a jar that enable the jsp container to run resque
 * [redis](http://redis.io/) the backend for storing solr update jobs
+* [rsolr gem](https://github.com/mwmitchell/rsolr)
 * other required gems are in the gem file
 
-resque & redis example
+
+### resque & redis example
 http://redistogo.com/documentation/resque
-
-
-how to curl in jruby
-http://stackoverflow.com/questions/968136/curbcurl-for-jruby
-actually, better to use jruby -httpclient gem
-https://github.com/aesterline/jruby-httpclient
 
 better yet, use rsolr as our solr client
