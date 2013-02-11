@@ -1,0 +1,8 @@
+.svn
+*.gem
+searchupdate.rb
+.buildpath
+.project
+*.tgz
+*.bin
+*~
