@@ -8,9 +8,7 @@ The mechanism for joining these two disjoint dataset is with the help of opennlp
 
 ## Reasons for choosing jruby, sinatra
 
-I needed a simple way to create a webservice for the java based [Apache OpenNLP project](https://opennlp.apache.org/).
-
-Jruby runs onto of the jvm so it can easily make use of Opennlp rand sinatra is a simple micro web framework perfect for this task.
+Jruby runs onto of the jvm so it can easily make use of java based [Apache OpenNLP libraries](https://opennlp.apache.org/) and sinatra is a simple micro web framework that can run on top of jruby to provide simple webservice interface for queries against opennlp.
 
 If you prefer to have a servlet for OpenNLP you can take a look at my [example](https://gist.github.com/spatzle/1104702), which is based on the [stanford-ner servlet](stanford-ner)
 
