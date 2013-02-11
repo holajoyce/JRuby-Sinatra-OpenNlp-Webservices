@@ -1,4 +1,4 @@
-# Jruby Sinatra Opennlp example
+# Jruby Sinatra Opennlp
 
 ## Purpose 
 
@@ -23,7 +23,13 @@ If you prefer to have a servlet for OpenNLP you can take a look at my [example](
 * other required gems are in the gem file
 
 
-### resque & redis example
+## Resources
+#### resque & redis example
 http://redistogo.com/documentation/resque
 
 better yet, use rsolr as our solr client
+
+
+## Licence
+[MIT](http://joyceschan.mit-license.org/)
+
