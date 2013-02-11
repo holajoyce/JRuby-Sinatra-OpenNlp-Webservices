@@ -10,7 +10,7 @@ Jruby runs onto of the jvm so it can easily make use of Opennlp rand sinatra is 
 
 If you prefer to have a servlet for OpenNLP you can take a look at my [example](https://gist.github.com/spatzle/1104702), which is based on the [stanford-ner servlet](stanford-ner)
 
-## Requirements
+## Requirements of note
 * jruby 
 * jsp container such as tomcat
 * opennlp jars
@@ -19,6 +19,7 @@ If you prefer to have a servlet for OpenNLP you can take a look at my [example](
 * [resque gem](https://github.com/defunkt/resque) for enqueueing jobs
 * [jruby rack worker](https://github.com/kares/jruby-rack-worker) is a jar that enable the jsp container to run resque
 * [redis](http://redis.io/) the backend for storing solr update jobs
+* other required gems are in the gem file
 
 resque & redis example
 http://redistogo.com/documentation/resque
