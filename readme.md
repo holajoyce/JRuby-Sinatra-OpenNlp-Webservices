@@ -30,6 +30,6 @@ http://redistogo.com/documentation/resque
 better yet, use rsolr as our solr client
 
 
-## Licence
+## License
 [MIT](http://joyceschan.mit-license.org/)
 
