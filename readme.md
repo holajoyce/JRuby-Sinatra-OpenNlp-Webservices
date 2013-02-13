@@ -1,4 +1,6 @@
-# Jruby Sinatra Opennlp
+# Jruby Sinatra Opennlp Webservices
+[![Jruby Sinatra Opennlp](https://raw.github.com/spatzle/jruby_sinatra_nlp/master/app/static/images/relevant.jpg)]()
+
 
 ## Purpose 
 This project can be warbled into a war file
