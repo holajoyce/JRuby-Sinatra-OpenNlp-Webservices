@@ -2,7 +2,7 @@
 [![Jruby Sinatra Opennlp](https://raw.github.com/spatzle/jruby_sinatra_nlp/master/app/static/images/relevant.jpg)]()
 
 
-## Purpose 
+## intro 
 This project can be warbled into a war file
 and dropped into jsp container which provides webservices to batch update docs from one solr core with data from another solr core.
 
