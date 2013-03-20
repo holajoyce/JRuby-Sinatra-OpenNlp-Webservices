@@ -28,10 +28,9 @@ If you prefer to have a servlet for OpenNLP you can take a look at my [example](
 
 
 ## Resources
-#### resque & redis example
+#### resque & redis examples
 http://redistogo.com/documentation/resque
 
-better yet, use rsolr as our solr client
 
 
 ## License
