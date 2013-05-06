@@ -3,7 +3,7 @@
 
 
 ## intro 
-This project can be warbled into a war file
+This project can be [warbled](http://caldersphere.rubyforge.org/warbler/) into a war file
 and dropped into jsp container which provides webservices to batch update docs from one solr core with data from another solr core.
 
 The mechanism for joining these two disjoint dataset is with the help of opennlp to tag named entities from one set and performing a search on the other and then updating both to denote there is a relationship
